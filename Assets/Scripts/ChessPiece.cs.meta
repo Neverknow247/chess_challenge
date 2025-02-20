@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 0f1184ac2eee1444896a5157e1b77328
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - controller: {instanceID: 0}
+  - moveTile: {instanceID: 0}
+  - black_queen: {fileID: 1432717468964532358, guid: 8d75aa6c340bc2c4bbedfc9169f66835, type: 3}
+  - black_pawn: {fileID: 7793784399209325343, guid: bf674586b61f21e439ab46ff152f5163, type: 3}
+  - white_queen: {fileID: 4200588439694617072, guid: 74832be135f03d0478ffe3037857630a, type: 3}
+  - white_pawn: {fileID: 6937027248060722800, guid: e4106112c99ab784380acca37a55a675, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
